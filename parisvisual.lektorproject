@@ -1,0 +1,6 @@
+[project]
+name = parisvisual
+[servers.ghpages]
+target = ghpages+https://paris-visual/paris-visual.github.io
+username = contact.parisvision@gmail.com
+password = dagelijksbrood2016
